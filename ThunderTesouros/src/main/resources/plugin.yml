@@ -1,0 +1,17 @@
+name: ThunderTesouros
+version: '${project.version}'
+main: br.com.sicro.thundertesouros.Main
+author: sicroxl
+commands:
+  tesourosetloc:
+    description: ThunderTesouro
+  tesouro:
+    description: ThunderTesouro
+  tesourosetsair:
+    description: ThunderTesouro
+  sair:
+    description: ThunderTesouro
+
+
+
+
